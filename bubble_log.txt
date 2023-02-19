@@ -1,0 +1,17 @@
+127 swap 543
+56 swap 127
+6 swap 56
+5 swap 6
+5 swap 543
+5 swap 127
+543 swap 675
+127 swap 543
+5 swap 127
+675 swap 3546
+543 swap 675
+127 swap 543
+5 swap 127
+5 swap 56
+56 swap 65
+5 swap 56
+5 swap 6
