@@ -27,6 +27,7 @@ public class students {
         newLine = line.replaceAll("\"", "");
         newLine = newLine.replaceAll(":", ",");
         newLine = newLine.replaceAll(",", " ,");
+
         StringBuilder resultLine = new StringBuilder("\nStudent ");
         String[] problemLine = newLine.split(",");
 
